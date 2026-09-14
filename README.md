@@ -161,6 +161,7 @@ Git commit is created with the latest solution
 | ------- |
 | [0319-bulb-switcher](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0319-bulb-switcher) |
 | [0372-super-pow](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0372-super-pow) |
+| [0836-rectangle-overlap](https://github.com/13msrajput/LeetCode-Submissions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0877-stone-game) |
 | [0906-super-palindromes](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0906-super-palindromes) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0952-largest-component-size-by-common-factor) |
@@ -612,4 +613,8 @@ Git commit is created with the latest solution
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/13msrajput/LeetCode-Submissions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
