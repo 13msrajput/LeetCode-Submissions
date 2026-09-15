@@ -205,6 +205,7 @@ Git commit is created with the latest solution
 | [1563-stone-game-v](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1872-stone-game-viii) |
 | [1987-number-of-unique-good-subsequences](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1987-number-of-unique-good-subsequences) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/13msrajput/LeetCode-Submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3615-longest-palindromic-path-in-graph](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3615-longest-palindromic-path-in-graph) |
@@ -257,6 +258,7 @@ Git commit is created with the latest solution
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2296-design-a-text-editor](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2296-design-a-text-editor) |
 | [2437-number-of-valid-clock-times](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2437-number-of-valid-clock-times) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/13msrajput/LeetCode-Submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -351,6 +353,7 @@ Git commit is created with the latest solution
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2233-maximum-product-after-k-increments](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2233-maximum-product-after-k-increments) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/13msrajput/LeetCode-Submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -453,6 +456,7 @@ Git commit is created with the latest solution
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0658-find-k-closest-elements) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/13msrajput/LeetCode-Submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
