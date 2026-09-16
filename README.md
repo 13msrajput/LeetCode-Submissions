@@ -171,6 +171,7 @@ Git commit is created with the latest solution
 | [1406-stone-game-iii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/13msrajput/LeetCode-Submissions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 | [1872-stone-game-viii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1927-sum-game) |
@@ -203,6 +204,7 @@ Git commit is created with the latest solution
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1510-stone-game-iv](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/13msrajput/LeetCode-Submissions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1872-stone-game-viii) |
 | [1987-number-of-unique-good-subsequences](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1987-number-of-unique-good-subsequences) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/13msrajput/LeetCode-Submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -471,6 +473,7 @@ Git commit is created with the latest solution
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1140-stone-game-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/13msrajput/LeetCode-Submissions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3903-smallest-stable-index-i) |
@@ -546,6 +549,7 @@ Git commit is created with the latest solution
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/13msrajput/LeetCode-Submissions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Counting
