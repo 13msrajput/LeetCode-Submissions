@@ -255,6 +255,7 @@ Git commit is created with the latest solution
 | [0940-distinct-subsequences-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0940-distinct-subsequences-ii) |
 | [0943-find-the-shortest-superstring](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0943-find-the-shortest-superstring) |
 | [1416-restore-the-array](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1416-restore-the-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/13msrajput/LeetCode-Submissions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1598-crawler-log-folder](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1598-crawler-log-folder) |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 | [1927-sum-game](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1927-sum-game) |
@@ -290,6 +291,7 @@ Git commit is created with the latest solution
 | [1122-relative-sort-array](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1122-relative-sort-array) |
 | [1386-cinema-seat-allocation](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/13msrajput/LeetCode-Submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/13msrajput/LeetCode-Submissions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 | [2784-check-if-array-is-good](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2784-check-if-array-is-good) |
@@ -310,6 +312,7 @@ Git commit is created with the latest solution
 | [1122-relative-sort-array](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1122-relative-sort-array) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1340-jump-game-v](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1340-jump-game-v) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/13msrajput/LeetCode-Submissions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2784-check-if-array-is-good](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2784-check-if-array-is-good) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -354,6 +357,7 @@ Git commit is created with the latest solution
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/13msrajput/LeetCode-Submissions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
