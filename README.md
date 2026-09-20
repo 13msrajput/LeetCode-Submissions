@@ -269,6 +269,7 @@ Git commit is created with the latest solution
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3498-reverse-degree-of-a-string) |
 | [3615-longest-palindromic-path-in-graph](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3615-longest-palindromic-path-in-graph) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -532,6 +533,7 @@ Git commit is created with the latest solution
 | [2296-design-a-text-editor](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2296-design-a-text-editor) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3498-reverse-degree-of-a-string](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
 |  |
 | ------- |
