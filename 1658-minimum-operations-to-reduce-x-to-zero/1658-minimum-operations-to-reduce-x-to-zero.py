@@ -1,26 +1,17 @@
 class Solution:
-    def minOperations(self, nums: List[int], x: int) -> int:
-        target = sum(nums) - x
-        n = len(nums)
+    def minOperations(self, A: List[int], x: int) -> int:
+        k = sum(A) - x
+        if k < 0: return -1 
+        best = -1
+        
+        s = i = 0
+        
+        for j, num in enumerate(A):
+            s += num
+            while s > k:
+                s -= A[i]
+                i += 1  
+            if s == k:
+                best = max(best, j - i + 1)
 
-        if target < 0:
-            return -1
-
-        if target == 0:
-            return n
-
-        left = 0
-        curr_sum = 0
-        max_len = -1
-
-        for right in range(n):
-            curr_sum += nums[right]
-
-            while curr_sum > target:
-                curr_sum -= nums[left]
-                left += 1
-
-            if curr_sum == target:
-                max_len = max(max_len, right - left + 1)
-
-        return -1 if max_len == -1 else n - max_len
+        return -1 if best < 0 else len(A) - best
