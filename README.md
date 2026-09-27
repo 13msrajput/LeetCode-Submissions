@@ -264,6 +264,7 @@ Git commit is created with the latest solution
 | [0940-distinct-subsequences-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0940-distinct-subsequences-ii) |
 | [0943-find-the-shortest-superstring](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0943-find-the-shortest-superstring) |
 | [1096-brace-expansion-ii](https://github.com/13msrajput/LeetCode-Submissions/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/13msrajput/LeetCode-Submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1416-restore-the-array](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1416-restore-the-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/13msrajput/LeetCode-Submissions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1598-crawler-log-folder](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1598-crawler-log-folder) |
@@ -287,6 +288,7 @@ Git commit is created with the latest solution
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/13msrajput/LeetCode-Submissions/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/13msrajput/LeetCode-Submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1598-crawler-log-folder](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1598-crawler-log-folder) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2296-design-a-text-editor](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2296-design-a-text-editor) |
@@ -655,4 +657,8 @@ Git commit is created with the latest solution
 | ------- |
 | [0836-rectangle-overlap](https://github.com/13msrajput/LeetCode-Submissions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/13msrajput/LeetCode-Submissions/tree/master/1401-circle-and-rectangle-overlapping) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/13msrajput/LeetCode-Submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
