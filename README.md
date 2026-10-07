@@ -263,6 +263,7 @@ Git commit is created with the latest solution
 | [0022-generate-parentheses](https://github.com/13msrajput/LeetCode-Submissions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/13msrajput/LeetCode-Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/13msrajput/LeetCode-Submissions/tree/master/0301-remove-invalid-parentheses) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0678-valid-parenthesis-string](https://github.com/13msrajput/LeetCode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0806-number-of-lines-to-write-string) |
@@ -370,6 +371,7 @@ Git commit is created with the latest solution
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/13msrajput/LeetCode-Submissions/tree/master/0301-remove-invalid-parentheses) |
 | [0407-trapping-rain-water-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0886-possible-bipartition](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0886-possible-bipartition) |
@@ -496,6 +498,7 @@ Git commit is created with the latest solution
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/13msrajput/LeetCode-Submissions/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/13msrajput/LeetCode-Submissions/tree/master/0301-remove-invalid-parentheses) |
 | [0526-beautiful-arrangement](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0526-beautiful-arrangement) |
 | [1096-brace-expansion-ii](https://github.com/13msrajput/LeetCode-Submissions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
