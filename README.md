@@ -129,6 +129,7 @@ Git commit is created with the latest solution
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/13msrajput/LeetCode-Submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1499-max-value-of-equation](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1499-max-value-of-equation) |
 | [1563-stone-game-v](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/13msrajput/LeetCode-Submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1598-crawler-log-folder](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1598-crawler-log-folder) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -185,6 +186,7 @@ Git commit is created with the latest solution
 | [1406-stone-game-iii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/13msrajput/LeetCode-Submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/13msrajput/LeetCode-Submissions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 | [1872-stone-game-viii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1872-stone-game-viii) |
@@ -226,6 +228,7 @@ Git commit is created with the latest solution
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/13msrajput/LeetCode-Submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/13msrajput/LeetCode-Submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/13msrajput/LeetCode-Submissions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1872-stone-game-viii) |
 | [1987-number-of-unique-good-subsequences](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1987-number-of-unique-good-subsequences) |
@@ -255,6 +258,7 @@ Git commit is created with the latest solution
 | ------- |
 | [0886-possible-bipartition](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0886-possible-bipartition) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0952-largest-component-size-by-common-factor) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/13msrajput/LeetCode-Submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2076-process-restricted-friend-requests](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2076-process-restricted-friend-requests) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph Theory
@@ -473,6 +477,7 @@ Git commit is created with the latest solution
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0307-range-sum-query-mutable) |
 | [0372-super-pow](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0372-super-pow) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/13msrajput/LeetCode-Submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Design
 |  |
 | ------- |
@@ -516,6 +521,7 @@ Git commit is created with the latest solution
 | [0968-binary-tree-cameras](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0968-binary-tree-cameras) |
 | [1302-deepest-leaves-sum](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1302-deepest-leaves-sum) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/13msrajput/LeetCode-Submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/13msrajput/LeetCode-Submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -524,6 +530,7 @@ Git commit is created with the latest solution
 | [0968-binary-tree-cameras](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0968-binary-tree-cameras) |
 | [1302-deepest-leaves-sum](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1302-deepest-leaves-sum) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/13msrajput/LeetCode-Submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/13msrajput/LeetCode-Submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Backtracking
 |  |
@@ -639,6 +646,7 @@ Git commit is created with the latest solution
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/13msrajput/LeetCode-Submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/13msrajput/LeetCode-Submissions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -653,6 +661,7 @@ Git commit is created with the latest solution
 ## Fermat's Little Theorem
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/13msrajput/LeetCode-Submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 ## Euler's Totient Function
 |  |
@@ -674,6 +683,7 @@ Git commit is created with the latest solution
 |  |
 | ------- |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/13msrajput/LeetCode-Submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -707,6 +717,7 @@ Git commit is created with the latest solution
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1137-n-th-tribonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/13msrajput/LeetCode-Submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Recursion
 |  |
 | ------- |
