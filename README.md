@@ -315,6 +315,7 @@ Git commit is created with the latest solution
 | [3615-longest-palindromic-path-in-graph](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3615-longest-palindromic-path-in-graph) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
 | ------- |
