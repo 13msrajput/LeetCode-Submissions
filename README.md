@@ -122,6 +122,7 @@ Git commit is created with the latest solution
 | [1122-relative-sort-array](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1122-relative-sort-array) |
 | [1140-stone-game-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1140-stone-game-ii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1254-number-of-closed-islands](https://github.com/13msrajput/LeetCode-Submissions/tree/master/1254-number-of-closed-islands) |
 | [1340-jump-game-v](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1340-jump-game-v) |
 | [1386-cinema-seat-allocation](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1406-stone-game-iii) |
@@ -264,6 +265,7 @@ Git commit is created with the latest solution
 | ------- |
 | [0886-possible-bipartition](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0886-possible-bipartition) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0952-largest-component-size-by-common-factor) |
+| [1254-number-of-closed-islands](https://github.com/13msrajput/LeetCode-Submissions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/13msrajput/LeetCode-Submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2076-process-restricted-friend-requests](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2076-process-restricted-friend-requests) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -397,6 +399,7 @@ Git commit is created with the latest solution
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0886-possible-bipartition](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0886-possible-bipartition) |
 | [0968-binary-tree-cameras](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0968-binary-tree-cameras) |
+| [1254-number-of-closed-islands](https://github.com/13msrajput/LeetCode-Submissions/tree/master/1254-number-of-closed-islands) |
 | [1302-deepest-leaves-sum](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1302-deepest-leaves-sum) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/13msrajput/LeetCode-Submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -409,6 +412,7 @@ Git commit is created with the latest solution
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0886-possible-bipartition](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0886-possible-bipartition) |
 | [1096-brace-expansion-ii](https://github.com/13msrajput/LeetCode-Submissions/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/13msrajput/LeetCode-Submissions/tree/master/1254-number-of-closed-islands) |
 | [1302-deepest-leaves-sum](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1302-deepest-leaves-sum) |
 | [3310-remove-methods-from-project](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -654,6 +658,7 @@ Git commit is created with the latest solution
 | [0498-diagonal-traverse](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0498-diagonal-traverse) |
 | [0835-image-overlap](https://github.com/13msrajput/LeetCode-Submissions/tree/master/0835-image-overlap) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
+| [1254-number-of-closed-islands](https://github.com/13msrajput/LeetCode-Submissions/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/13msrajput/LeetCode-Submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Combinatorics
