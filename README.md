@@ -170,6 +170,7 @@ Git commit is created with the latest solution
 | [3727-maximum-alternating-sum-of-squares](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3731-find-missing-elements) |
 | [3806-maximum-bitwise-and-after-increment-operations](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3806-maximum-bitwise-and-after-increment-operations) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -325,6 +326,7 @@ Git commit is created with the latest solution
 | [3615-longest-palindromic-path-in-graph](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3615-longest-palindromic-path-in-graph) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
@@ -409,6 +411,7 @@ Git commit is created with the latest solution
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/13msrajput/LeetCode-Submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -485,6 +488,7 @@ Git commit is created with the latest solution
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3806-maximum-bitwise-and-after-increment-operations](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3806-maximum-bitwise-and-after-increment-operations) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Bitmask
 |  |
@@ -502,6 +506,7 @@ Git commit is created with the latest solution
 | [0307-range-sum-query-mutable](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0307-range-sum-query-mutable) |
 | [0372-super-pow](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0372-super-pow) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/13msrajput/LeetCode-Submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Design
 |  |
 | ------- |
@@ -515,6 +520,7 @@ Git commit is created with the latest solution
 | [0307-range-sum-query-mutable](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0307-range-sum-query-mutable) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/13msrajput/LeetCode-Submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/13msrajput/LeetCode-Submissions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
@@ -522,6 +528,7 @@ Git commit is created with the latest solution
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/13msrajput/LeetCode-Submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/13msrajput/LeetCode-Submissions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3525-find-x-value-of-array-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sqrt Decomposition
 |  |
 | ------- |
@@ -547,6 +554,7 @@ Git commit is created with the latest solution
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/13msrajput/LeetCode-Submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/13msrajput/LeetCode-Submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
