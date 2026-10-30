@@ -281,6 +281,7 @@ Git commit is created with the latest solution
 | [2076-process-restricted-friend-requests](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2076-process-restricted-friend-requests) |
 | [3310-remove-methods-from-project](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3310-remove-methods-from-project) |
 | [3615-longest-palindromic-path-in-graph](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3615-longest-palindromic-path-in-graph) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## String
 |  |
 | ------- |
@@ -328,6 +329,7 @@ Git commit is created with the latest solution
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Stack
 |  |
 | ------- |
@@ -636,6 +638,7 @@ Git commit is created with the latest solution
 | [1499-max-value-of-equation](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1499-max-value-of-equation) |
 | [2233-maximum-product-after-k-increments](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2233-maximum-product-after-k-increments) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/13msrajput/LeetCode-Submissions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Longest Common Subsequence
 |  |
 | ------- |
@@ -777,4 +780,8 @@ Git commit is created with the latest solution
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/13msrajput/LeetCode-Submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/13msrajput/LeetCode-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/13msrajput/LeetCode-Submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
