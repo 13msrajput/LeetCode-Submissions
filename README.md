@@ -165,6 +165,7 @@ Git commit is created with the latest solution
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3665-twisted-mirror-path-count) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -248,6 +249,7 @@ Git commit is created with the latest solution
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3524-find-x-value-of-array-i) |
 | [3615-longest-palindromic-path-in-graph](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3615-longest-palindromic-path-in-graph) |
+| [3665-twisted-mirror-path-count](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Game Theory
 |  |
@@ -680,6 +682,7 @@ Git commit is created with the latest solution
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/13msrajput/LeetCode-Submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Combinatorics
 |  |
