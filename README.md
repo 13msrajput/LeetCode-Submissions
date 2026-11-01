@@ -107,6 +107,7 @@ Git commit is created with the latest solution
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0307-range-sum-query-mutable) |
 | [0407-trapping-rain-water-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0407-trapping-rain-water-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/13msrajput/LeetCode-Submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0498-diagonal-traverse](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0498-diagonal-traverse) |
 | [0526-beautiful-arrangement](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0526-beautiful-arrangement) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -184,6 +185,7 @@ Git commit is created with the latest solution
 | ------- |
 | [0319-bulb-switcher](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0319-bulb-switcher) |
 | [0372-super-pow](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0372-super-pow) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/13msrajput/LeetCode-Submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/13msrajput/LeetCode-Submissions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0877-stone-game) |
 | [0906-super-palindromes](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0906-super-palindromes) |
