@@ -172,6 +172,7 @@ Git commit is created with the latest solution
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3806-maximum-bitwise-and-after-increment-operations](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3806-maximum-bitwise-and-after-increment-operations) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -214,6 +215,7 @@ Git commit is created with the latest solution
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3875-construct-uniform-parity-array-i) |
