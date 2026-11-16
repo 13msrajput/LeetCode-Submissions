@@ -338,6 +338,7 @@ Git commit is created with the latest solution
 | [1927-sum-game](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1927-sum-game) |
 | [1987-number-of-unique-good-subsequences](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1987-number-of-unique-good-subsequences) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/13msrajput/LeetCode-Submissions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2296-design-a-text-editor](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2296-design-a-text-editor) |
 | [2409-count-days-spent-together](https://github.com/13msrajput/LeetCode-Submissions/tree/master/2409-count-days-spent-together) |
 | [2437-number-of-valid-clock-times](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2437-number-of-valid-clock-times) |
@@ -690,6 +691,7 @@ Git commit is created with the latest solution
 | [1603-design-parking-system](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1603-design-parking-system) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/13msrajput/LeetCode-Submissions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/13msrajput/LeetCode-Submissions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2296-design-a-text-editor](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2296-design-a-text-editor) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
