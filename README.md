@@ -345,6 +345,7 @@ Git commit is created with the latest solution
 | [2437-number-of-valid-clock-times](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2437-number-of-valid-clock-times) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/13msrajput/LeetCode-Submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/13msrajput/LeetCode-Submissions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/13msrajput/LeetCode-Submissions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
