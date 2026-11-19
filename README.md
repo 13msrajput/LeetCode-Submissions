@@ -151,6 +151,7 @@ Git commit is created with the latest solution
 | [2333-minimum-sum-of-squared-difference](https://github.com/13msrajput/LeetCode-Submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2432-the-employee-that-worked-on-the-longest-task](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2432-the-employee-that-worked-on-the-longest-task) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/13msrajput/LeetCode-Submissions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/13msrajput/LeetCode-Submissions/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/13msrajput/LeetCode-Submissions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2784-check-if-array-is-good) |
@@ -423,6 +424,7 @@ Git commit is created with the latest solution
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/13msrajput/LeetCode-Submissions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/13msrajput/LeetCode-Submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/13msrajput/LeetCode-Submissions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/13msrajput/LeetCode-Submissions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/13msrajput/LeetCode-Submissions/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2784-check-if-array-is-good) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -494,6 +496,7 @@ Git commit is created with the latest solution
 | [2233-maximum-product-after-k-increments](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2233-maximum-product-after-k-increments) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/13msrajput/LeetCode-Submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/13msrajput/LeetCode-Submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/13msrajput/LeetCode-Submissions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/13msrajput/LeetCode-Submissions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
