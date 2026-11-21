@@ -165,6 +165,7 @@ Git commit is created with the latest solution
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -352,6 +353,7 @@ Git commit is created with the latest solution
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3498-reverse-degree-of-a-string) |
 | [3615-longest-palindromic-path-in-graph](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3615-longest-palindromic-path-in-graph) |
@@ -404,6 +406,7 @@ Git commit is created with the latest solution
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -450,6 +453,7 @@ Git commit is created with the latest solution
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/13msrajput/LeetCode-Submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3310-remove-methods-from-project) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
@@ -597,6 +601,7 @@ Git commit is created with the latest solution
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/13msrajput/LeetCode-Submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/13msrajput/LeetCode-Submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
