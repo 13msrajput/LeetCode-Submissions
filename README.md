@@ -197,6 +197,7 @@ Git commit is created with the latest solution
 | [3904-smallest-stable-index-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3904-smallest-stable-index-ii) |
 | [3934-smallest-unique-subarray](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Math
 |  |
 | ------- |
@@ -281,6 +282,7 @@ Git commit is created with the latest solution
 | [3665-twisted-mirror-path-count](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Game Theory
 |  |
 | ------- |
@@ -519,6 +521,7 @@ Git commit is created with the latest solution
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3806-maximum-bitwise-and-after-increment-operations](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3806-maximum-bitwise-and-after-increment-operations) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Enumeration
 |  |
 | ------- |
